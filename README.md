@@ -140,6 +140,9 @@ describe('Calculadora', () => {
 
 ISC
 
+## Autor
+- **Arlen Freitas** - [GitHub](https://github.com/arlendfs)
+
 ---
 
 **Desenvolvido como atividade prática de TDD com Jest**
